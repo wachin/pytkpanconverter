@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.1
+Name=Xinput GUI
+GenericName=A simple GUI for Xorg's Xinput tool
+GenericName[pt]=Conversor de ficheiros
+Comment=xinput allows you to edit properties of devices like keyboards, mice, and touchpads.
+Comment[es]=xinput le permite editar propiedades de dispositivos como teclados, ratones y paneles táctiles.
+Exec=xinput-gui
+Icon=xinputgui
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Video;Audio;Office;
