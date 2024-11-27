@@ -22,7 +22,7 @@ Después de instalar estos paquetes, deberías poder ejecutar el script sin prob
 Para lanzar el programa ponga en una terminal en el lugar donde está el programa:
 
 ```
-python3 pytkconverter2.py
+python3 pytkpanconverter.py
 ```
 
 Este código  incluye las siguientes caracteristicas:
